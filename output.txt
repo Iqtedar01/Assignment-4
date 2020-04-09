@@ -1,0 +1,110 @@
+Movies Genres: 
+Film-Noir has 68 movies
+Action has 861 movies
+Adventure has 617 movies
+Horror has 504 movies
+Romance has 985 movies
+War has 229 movies
+Western has 110 movies
+Documentary has 161 movies
+Sci-Fi has 467 movies
+Drama has 2521 movies
+Thriller has 982 movies
+Crime has 651 movies
+Fantasy has 333 movies
+Animation has 166 movies
+IMAX has 18 movies
+Comedy has 2024 movies
+Mystery has 303 movies
+Children has 354 movies
+Musical has 228 movies
+Movie Year Releases: 
+1920 had 1 movies come out
+1921 had 1 movies come out
+1922 had 1 movies come out
+1923 had 3 movies come out
+1924 had 2 movies come out
+1925 had 3 movies come out
+1926 had 3 movies come out
+1927 had 5 movies come out
+1928 had 3 movies come out
+1929 had 2 movies come out
+1930 had 5 movies come out
+1931 had 10 movies come out
+1932 had 7 movies come out
+1933 had 8 movies come out
+1934 had 8 movies come out
+1935 had 11 movies come out
+1936 had 11 movies come out
+1937 had 14 movies come out
+1938 had 10 movies come out
+1939 had 19 movies come out
+1940 had 19 movies come out
+1941 had 16 movies come out
+1942 had 21 movies come out
+1943 had 8 movies come out
+1944 had 13 movies come out
+1945 had 17 movies come out
+1946 had 20 movies come out
+1947 had 16 movies come out
+1948 had 13 movies come out
+1949 had 17 movies come out
+1950 had 15 movies come out
+1951 had 20 movies come out
+1952 had 14 movies come out
+1953 had 27 movies come out
+1954 had 18 movies come out
+1955 had 30 movies come out
+1956 had 27 movies come out
+1957 had 31 movies come out
+1958 had 26 movies come out
+1959 had 34 movies come out
+1960 had 32 movies come out
+1961 had 26 movies come out
+1962 had 31 movies come out
+1963 had 32 movies come out
+1964 had 32 movies come out
+1965 had 34 movies come out
+1966 had 29 movies come out
+1967 had 28 movies come out
+1968 had 28 movies come out
+1969 had 26 movies come out
+1970 had 24 movies come out
+1971 had 36 movies come out
+1972 had 33 movies come out
+1973 had 41 movies come out
+1974 had 37 movies come out
+1975 had 32 movies come out
+1976 had 33 movies come out
+1977 had 44 movies come out
+1978 had 47 movies come out
+1979 had 51 movies come out
+1980 had 79 movies come out
+1981 had 82 movies come out
+1982 had 82 movies come out
+1983 had 66 movies come out
+1984 had 86 movies come out
+1985 had 103 movies come out
+1986 had 122 movies come out
+1987 had 136 movies come out
+1988 had 143 movies come out
+1989 had 130 movies come out
+1990 had 120 movies come out
+1991 had 126 movies come out
+1992 had 139 movies come out
+1993 had 175 movies come out
+1994 had 214 movies come out
+1995 had 241 movies come out
+1996 had 256 movies come out
+1997 had 235 movies come out
+1998 had 234 movies come out
+1999 had 235 movies come out
+2000 had 253 movies come out
+2001 had 271 movies come out
+2002 had 276 movies come out
+2003 had 212 movies come out
+2004 had 109 movies come out
+1915 had 1 movies come out
+1916 had 1 movies come out
+1917 had 1 movies come out
+1919 had 1 movies come out
