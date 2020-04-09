@@ -1,4 +1,4 @@
-Iqtedar Alizai 
+ Iqtedar Alizai 
 package moviegenres;
 import java.io.*;
 import java.util.ArrayList;
