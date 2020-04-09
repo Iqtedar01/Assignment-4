@@ -1017,7 +1017,7 @@ movieId,title,genres
 1326,Amityville II: The Possession (1982),Horror
 1327,"Amityville Horror, The (1979)",Drama|Horror|Mystery|Thriller
 1328,"Amityville Curse, The (1990)",Horror
-1329,Blood for Dracula (Andy Warhol's Dracula) (1974),Horror
+1329,Blood for Dracula (Andy Warhol 's Dracula) (1974),Horror
 1330,April Fool's Day (1986),Horror
 1331,Audrey Rose (1977),Horror
 1332,"Believers, The (1987)",Horror|Thriller
